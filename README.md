@@ -1,7 +1,4 @@
-# -*- coding: utf-8 -*-
-"""Generate README.md for Admission Predict GRE.ipynb"""
 
-content = """
 # Admission Prediction using GRE Scores
 
 ## Overview
